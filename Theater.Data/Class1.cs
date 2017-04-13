@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Theater.Domain
+namespace Theater.Data
 {
     public class Class1
     {

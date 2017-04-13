@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstractions\Data\" />
+    <Folder Include="Abstractions\Logic\" />
+    <Folder Include="Abstractions\Validation\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
+</Project>
